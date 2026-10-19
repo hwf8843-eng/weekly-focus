@@ -1,4 +1,4 @@
-const CACHE = 'weekly-focus-github-v3';
+const CACHE = 'weekly-focus-github-v4';
 const SHELL = ['./','./index.html','./manifest.webmanifest','./icon192.png','./icon512.png','./apple-touch-icon.png'];
 self.addEventListener('install',event=>{
   event.waitUntil((async()=>{
